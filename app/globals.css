@@ -1,3 +1,4 @@
+/* TODO organize globals to include variables and component classes */
 @import "tailwindcss";
 @tailwind base;
 @tailwind components;
