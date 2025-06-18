@@ -1,11 +1,18 @@
 # jasreon-public
 
-NEXT: 
+## NEXT: 
 - Fork current proj and remove everything except the basics for a new app with auth
 - Create portfolio proj for create a new app with auth and basics
 - create readme explaining how to use
 - create SQL file explaining how to setup supabase to run with new project
 
+
+## Feature Ideas
+- Posts
+- Comments
+- Messaging
+- Guest book
+- 
 
 ? TODO: for portfolio, put together boiler plate auth site with supabase for people to use, bonus to make it a script to scaffold basically of this repo: supabase with user, auth files for serverside auth, auth signup form, basic dashboard,
 
